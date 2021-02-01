@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f23f5ce.chunk.css",
+    "main.css": "/static/css/main.6cfd3d40.chunk.css",
     "main.js": "/static/js/main.f5ce28aa.chunk.js",
     "main.js.map": "/static/js/main.f5ce28aa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7956c9a4.js",
@@ -10,15 +10,15 @@
     "static/js/3.558a22d3.chunk.js": "/static/js/3.558a22d3.chunk.js",
     "static/js/3.558a22d3.chunk.js.map": "/static/js/3.558a22d3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5f23f5ce.chunk.css.map": "/static/css/main.5f23f5ce.chunk.css.map",
+    "static/css/main.6cfd3d40.chunk.css.map": "/static/css/main.6cfd3d40.chunk.css.map",
     "static/js/2.c20c58a8.chunk.js.LICENSE.txt": "/static/js/2.c20c58a8.chunk.js.LICENSE.txt",
     "static/media/index.less": "/static/media/Alibaba-PuHuiTi-Regular.5a49861b.ttf",
-    "static/media/App.less": "/static/media/background.dc5c51c7.jpg"
+    "static/media/App.less": "/static/media/background1.dc5c51c7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7956c9a4.js",
     "static/js/2.c20c58a8.chunk.js",
-    "static/css/main.5f23f5ce.chunk.css",
+    "static/css/main.6cfd3d40.chunk.css",
     "static/js/main.f5ce28aa.chunk.js"
   ]
 }
