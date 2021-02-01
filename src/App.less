@@ -1,6 +1,69 @@
+.layout {
+    // border: 1px solid red;
+
+    width: 100vm;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .contentPannel {
+        // border: 1px solid blue;
+        min-width: 40%;
+        height: 200px;
+        padding: 24px;
+
+        .title {
+            // border: 1px solid green;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            p {
+                margin: 0;
+                margin-bottom: 8px;
+            }
+        }
+
+        .contentList {
+            // border: 1px solid green;
+            padding: 20px 16px;
+
+            .item {
+                margin-bottom: 20px;
+            }
+        }
+    }
+}
+
+.background {
+    background: url(./img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    .contentPannel {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 8px;
+
+        .title {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+        }
+    }
+}
+
+.font {
+    .title {
+        font-size: 22px;
+        font-family: PingFangSC-Regular, PingFang SC;
+        font-weight: 600;
+        color: rgba(255, 255, 255, 0.7);
+        line-height: 30px;
+    }
+}
 
 
-
-.app{
-
+.app {
+    .layout();
+    .background();
+    .font();
 }
